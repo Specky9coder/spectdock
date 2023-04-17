@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Spect Dock</title>
+      <link>https://reubence.com/blog</link>
+      <description>Keyur</description>
+      <language>en-us</language>
+      <managingEditor>keyur.bhadani9@gmail.com (Keyur Bhadani)</managingEditor>
+      <webMaster>keyur.bhadani9@gmail.com (Keyur Bhadani)</webMaster>
+      <lastBuildDate>Mon, 27 Jun 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://reubence.com/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://reubence.com/blog/trpc-router</guid>
+    <title>tRPC Router for building APIs</title>
+    <link>https://reubence.com/blog/trpc-router</link>
+    <description>tRPC is a package that lets us build API endpoints within the same file in the form of functions, as well as providing type safety between the front and back-ends.</description>
+    <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
+    <author>keyur.bhadani9@gmail.com (Keyur Bhadani)</author>
+    <category>React</category><category>API</category>
+  </item>
+
+  <item>
+    <guid>https://reubence.com/blog/react-search</guid>
+    <title>React Context Hook For Search Values</title>
+    <link>https://reubence.com/blog/react-search</link>
+    <description>To implement a simple on-page search functionality</description>
+    <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+    <author>keyur.bhadani9@gmail.com (Keyur Bhadani)</author>
+    <category>JavaScript</category><category>React</category><category>React Hooks</category>
+  </item>
+
+  <item>
+    <guid>https://reubence.com/blog/stripe</guid>
+    <title>Accept Payments with Stripe</title>
+    <link>https://reubence.com/blog/stripe</link>
+    <description>Boilerplate code to accept A Payment With Stripe</description>
+    <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
+    <author>keyur.bhadani9@gmail.com (Keyur Bhadani)</author>
+    <category>JavaScript</category><category>Payment</category>
+  </item>
+
+  <item>
+    <guid>https://reubence.com/blog/react-hoc</guid>
+    <title>React Higher Order Component</title>
+    <link>https://reubence.com/blog/react-hoc</link>
+    <description>Boilerplate code for creating a simple React HOC that wraps another component and adds some functionality to it.</description>
+    <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+    <author>keyur.bhadani9@gmail.com (Keyur Bhadani)</author>
+    <category>JavaScript</category><category>React</category><category>Component</category>
+  </item>
+
+  <item>
+    <guid>https://reubence.com/blog/glassmorphic-navbar</guid>
+    <title>Glassmorphic Sticky NavBar</title>
+    <link>https://reubence.com/blog/glassmorphic-navbar</link>
+    <description>Usage of Glassmorphism to achieve a sticky NavBar with a glass effect like the one used on this website.</description>
+    <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+    <author>keyur.bhadani9@gmail.com (Keyur Bhadani)</author>
+    <category>HTML</category><category>TailwindCSS</category>
+  </item>
+
+    </channel>
+  </rss>
